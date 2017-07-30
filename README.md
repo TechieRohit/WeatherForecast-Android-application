@@ -1,8 +1,7 @@
 # WeatherForecast
 
 
-
-A simple, opensource weather app for Android. It gathers data from [OpenWeatherMap](http://openweathermap.org/), via their public API.
+A simple weather forecasting Android app that uses [OpenWeatherMap](https://openweathermap.org/) API to parse JSON data using Volley open source library + A simple RecyclerView to show the details of weather.Used LocationListner to fetch the location of the user from Network Provider as well as GPS.
 
 ## Features
 * Simple design
